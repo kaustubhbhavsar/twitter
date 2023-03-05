@@ -17,6 +17,8 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1631560954399031296?s=20">Look beyond summary statistics for EDA</a>  -> Are you relying solely on summary statistics for your exploratory data analysis in Machine Learning projects? Here's why you shouldn't!
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1632267195723173888?s=20">The 'No Free Lunch' theorem</a>  -> If you think there's a perfect machine learning algorithm out there that can solve any problem, think again.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
