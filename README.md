@@ -22,6 +22,14 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- Machine Learning -->
+## Machine Learning
+
+<a href="https://twitter.com/bhavsarkaustubh/status/1633443448996114432?s=20">Linear Regression for classification</a>  -> Can linear regression be used for classification problems?
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 <!-- Natural Language Processing -->
 ## Natural Language Processing
 
@@ -30,8 +38,8 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- Reinforcement Language -->
-## Reinforcement Language
+<!-- Reinforcement Learning -->
+## Reinforcement Learning
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1630512314792427524?s=20">What is Reinforcement Language?</a>  -> Want to understand Reinforcement Learning? It can be a tricky concept, but a unique 'farmer analogy' can help simplify it.
 
