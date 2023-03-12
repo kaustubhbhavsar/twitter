@@ -51,4 +51,6 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1629708966556217345?s=20">Shallow copy Vs Deep copy</a>  -> Are you confused about the difference between shallow copy and deep copy in Python? Let's clear it up!
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1634842535909793793?s=20">Overview of Docstrings</a>  -> Writing clear and maintainable code is an important goal for any developer. One way to achieve this in Python is by using docstrings to document your functions!
+
 <p align="right">(<a href="#top">back to top</a>)</p>
