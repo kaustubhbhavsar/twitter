@@ -53,4 +53,6 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1634842535909793793?s=20">Overview of Docstrings</a>  -> Writing clear and maintainable code is an important goal for any developer. One way to achieve this in Python is by using docstrings to document your functions!
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1635246134544453634?s=20">Numpy Tiled Arrays</a>  -> Want to repeat a NumPy array multiple times? With 'np.tile', you can quickly and easily create tiled arrays to suit your needs.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
