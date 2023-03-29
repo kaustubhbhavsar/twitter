@@ -55,4 +55,6 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1635246134544453634?s=20">Numpy Tiled Arrays</a>  -> Want to repeat a NumPy array multiple times? With 'np.tile', you can quickly and easily create tiled arrays to suit your needs.
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1640952188439756802?s=20">DataFrame.apply() command</a>  -> If you're working with large datasets in pandas, for-loops can be slow and memory-intensive. DataFrame.apply() is a better option for optimizing your code and improving performance. See how to use it with both lambda and user-defined functions.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
