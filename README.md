@@ -46,10 +46,12 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- Miscellaneous -->
-## Miscellaneous
+<!-- MLOps -->
+## MLOps
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1642377439715414017?s=20">Operational Databases, Data Lakes, and Data Warehouses</a>  -> Confused about the difference between operational databases, data lakes, and data warehouses? Here's a quick guide with examples to help you understand! A lemonade business analogy.
+
+<a href="https://twitter.com/bhavsarkaustubh/status/1646018080953487360?s=20">Unit Test Vs Smoke Test</a>  -> Do you know what unit testing and smoke testing are? These are two important ways programmers make sure their code works properly.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
