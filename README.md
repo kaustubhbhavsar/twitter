@@ -59,6 +59,8 @@
 <!-- Python -->
 ## Python
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1649015198962049024?s=20">Optimizing the Memory Usage of Dataframes</a>  -> Are you working with large datasets in Pandas? Optimizing the memory usage of your dataframes can help prevent memory errors. Here's a tip: try downcasting numerical columns to smaller data types! 
+
 <a href="https://twitter.com/bhavsarkaustubh/status/1644554784853348352?s=20">Argparse</a>  -> Make your Python scripts more user-friendly with 'argparse' - the module that makes it easy to parse and handle command-line arguments! Bonus: Know how 'argparse' can help to streamline workflow as a Machine Learning engineer!
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1629708966556217345?s=20">Shallow copy Vs Deep copy</a>  -> Are you confused about the difference between shallow copy and deep copy in Python? Let's clear it up!
