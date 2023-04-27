@@ -67,6 +67,8 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1634842535909793793?s=20">Overview of Docstrings</a>  -> Writing clear and maintainable code is an important goal for any developer. One way to achieve this in Python is by using docstrings to document your functions!
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1651501333747486720?s=20">DataFrame.apply(), Zip, and Vectorization</a>  -> Need a faster alternative to df.apply() in Pandas? Try using vectorization or the zip method for faster and more efficient calculations.
+
 <a href="https://twitter.com/bhavsarkaustubh/status/1635246134544453634?s=20">Numpy Tiled Arrays</a>  -> Want to repeat a NumPy array multiple times? With 'np.tile', you can quickly and easily create tiled arrays to suit your needs.
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1640952188439756802?s=20">DataFrame.apply() command</a>  -> If you're working with large datasets in pandas, for-loops can be slow and memory-intensive. DataFrame.apply() is a better option for optimizing your code and improving performance. See how to use it with both lambda and user-defined functions.
