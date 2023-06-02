@@ -35,6 +35,8 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1630091176597676032?s=20">Steming and Lemmatization</a>  -> Have you ever heard of stemming and lemmatization? They are both language processing techniques used in NLP, but do you know how they differ? 
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1664610061526917121?s=20">Cosine Similarity</a>  -> When comparing vectors using cosine similarity, magnitude takes a backseat! The magic lies in the direction they point towards.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
