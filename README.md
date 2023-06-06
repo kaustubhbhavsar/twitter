@@ -30,12 +30,14 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- Natural Language Processing -->
-## Natural Language Processing
-
-<a href="https://twitter.com/bhavsarkaustubh/status/1630091176597676032?s=20">Steming and Lemmatization</a>  -> Have you ever heard of stemming and lemmatization? They are both language processing techniques used in NLP, but do you know how they differ? 
+<!-- Natural Language Processing/LLM -->
+## Natural Language Processing and LLMs
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1664610061526917121?s=20">Cosine Similarity</a>  -> When comparing vectors using cosine similarity, magnitude takes a backseat! The magic lies in the direction they point towards.
+
+<a href="https://twitter.com/bhavsarkaustubh/status/1666030723462238208?s=20">Benefits of Chaining Prompts</a>  -> Ever wondered why the complex prompt is frequently divided into smaller prompts, despite claims that the newer language models are capable of handling complex prompts?
+
+<a href="https://twitter.com/bhavsarkaustubh/status/1630091176597676032?s=20">Steming and Lemmatization</a>  -> Have you ever heard of stemming and lemmatization? They are both language processing techniques used in NLP, but do you know how they differ? 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
