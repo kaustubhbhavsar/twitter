@@ -19,8 +19,10 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1632267195723173888?s=20">The 'No Free Lunch' theorem</a>  -> If you think there's a perfect machine learning algorithm out there that can solve any problem, think again.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<a href="https://twitter.com/bhavsarkaustubh/status/1675731829578661889?s=20">Use of Weights and Biases</a>  -> Neural networks, the backbone of modern AI, rely on tunable parameters called weights and biases. But why do we need both parameters?
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+ 
 
 <!-- Machine Learning -->
 ## Machine Learning
