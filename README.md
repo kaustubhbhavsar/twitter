@@ -80,3 +80,11 @@
 <a href="https://twitter.com/bhavsarkaustubh/status/1640952188439756802?s=20">DataFrame.apply() command</a>  -> If you're working with large datasets in pandas, for-loops can be slow and memory-intensive. DataFrame.apply() is a better option for optimizing your code and improving performance. See how to use it with both lambda and user-defined functions.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- Miscellaneous -->
+## Miscellaneous
+
+<a href="https://twitter.com/bhavsarkaustubh/status/1676513867684548609?s=20">Short and Basic QnA on Neural Networks</a>  -> What do we tune in a neural network? Who tunes these parameters? What basis does it use to tune the parameters? 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
