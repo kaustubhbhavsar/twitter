@@ -29,6 +29,8 @@
 
 <a href="https://twitter.com/bhavsarkaustubh/status/1633443448996114432?s=20">Linear Regression for classification</a>  -> Can linear regression be used for classification problems?
 
+<a href="https://twitter.com/bhavsarkaustubh/status/1677246566204342272?s=20">Handling limited training data and validation datasets</a>  -> At times, we face the challenge of having limited training data and struggle to create a separate validation dataset. In such situations, we have two options to consider. Find them out here.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
