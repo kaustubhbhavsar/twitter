@@ -85,6 +85,6 @@
 <!-- Miscellaneous -->
 ## Miscellaneous
 
-<a href="https://twitter.com/bhavsarkaustubh/status/1676513867684548609?s=20">Short and Basic QnA on Neural Networks</a>  -> What do we tune in a neural network? Who tunes these parameters? What basis does it use to tune the parameters? 
+<a href="https://twitter.com/bhavsarkaustubh/status/1676513867684548609?s=20">Short and Basic QnA on Neural Networks</a>  -> What do we tune in a neural network? Who tunes these parameters? What basis does it use to tune the parameters? Why we don't use RELU activation function in the output layer for classification? What was the need for RELU when we already had SIGMOID activation function?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
